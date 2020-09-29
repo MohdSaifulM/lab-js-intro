@@ -17,6 +17,7 @@ Forgot how old someone is? Calculate it!
 - Store their birth year in a variable.
 - Calculate their 2 possible ages based on the stored values.
 - Output them to the screen like so: "They are either NN or NN", substituting the values.
+- Bonus: Get the current year using JavaScript!
 
 ---
 
@@ -29,7 +30,6 @@ Ever wonder how much a "lifetime supply" of your favorite snack is? Wonder no mo
 - Store an estimated amount per day (as a number).
 - Calculate how many you would eat total for the rest of your life.
 - Output the result to the screen like so: "You will need NN to last you until the ripe old age of X".
-- Bonus: Get the current year using JavaScript!
 
 ---
 
